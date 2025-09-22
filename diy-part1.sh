@@ -19,3 +19,4 @@
 #luci-app-dockerman up
 git clone https://github.com/gdy666/luci-app-lucky.git package/lucky
 git clone https://github.com/sbwml/luci-app-openlist package/openlist
+git clone https://github.com/sirpdboy/luci-app-taskplan package/luci-app-taskplan
